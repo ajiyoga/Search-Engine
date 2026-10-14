@@ -6,6 +6,8 @@ Aplikasi ini dibagi menjadi 4 fitur utama sesuai dengan standar spesifikasi fung
 - Antarmuka pencarian cepat dengan placeholder interaktif dan tombol Reset.
 - Mendukung fitur Multi-File Upload untuk file korpus bertahap berformat CSV (memungkinkan pengunggahan hingga 1.000 dokumen target).
 - Indikator Progress Bar dinamis untuk memantau kapasitas dokumen korpus yang aktif terindeks.
+- Menyediakan kolom pencarian cepat dengan tombol *Reset*, indikator kapasitas korpus dokumen secara *real-time*, serta panel *Multi-File Upload* untuk mengunggah berkas dataset CSV secara bertahap.
+![Dashboard & Upload](assets/fitur1.png)
   
 # Fitur 2: Preprocessing Pipeline
 Menampilkan audit visual tahapan pemrosesan teks secara transparan:
