@@ -1,5 +1,5 @@
 # Simple Information Retrieval (IR) Web Engine - VSM & TF-IDF
-# Aplikasi Web Search Engine mandiri berbasis Python (Flask) yang mengimplementasikan metode Vector Space Model (VSM) dan pembobotan TF-IDF (Term Frequency-Inverse Document Frequency). Proyek ini dikembangkan untuk memenuhi tugas Ujian Tengah Semester (UTS) mata kuliah Sistem Temu Kembali Informasi.
+Aplikasi Web Search Engine mandiri berbasis Python (Flask) yang mengimplementasikan metode Vector Space Model (VSM) dan pembobotan TF-IDF (Term Frequency-Inverse Document Frequency). Proyek ini dikembangkan untuk memenuhi tugas Ujian Tengah Semester (UTS) mata kuliah Sistem Temu Kembali Informasi.
 # Fitur Utama Aplikasi
 Aplikasi ini dibagi menjadi 4 fitur utama sesuai dengan standar spesifikasi fungsional:
 # Fitur 1: Dashboard Pencarian & Upload Dataset
