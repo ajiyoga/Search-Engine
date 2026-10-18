@@ -20,9 +20,11 @@ Menampilkan audit visual tahapan pemrosesan teks secara transparan:
 # Fitur 3: Mesin Hitung VSM & Bobot TF-IDF (Backend Engine)
 <img width="1886" height="908" alt="Screenshot (116)" src="https://github.com/user-attachments/assets/5617d50f-8af2-462f-97a6-9f9c13d70bb6" />
 - Menghitung frekuensi kemunculan kata dalam dokumen (TF) dan nilai kebalikan frekuensi dokumen (IDF).
+  
 - Menampilkan matriks tabel matematis pembobotan akhir $W_{t,d}$ serta panjang norma vektor kueri ($\lVert Q \rVert$).
   
 # Fitur 4: Hasil Pencarian (Ranking Dokumen)
 <img width="1887" height="915" alt="Cuplikan layar 2026-10-15 020651" src="https://github.com/user-attachments/assets/b67a4e40-2c87-430a-9f3f-23e8338939ca" />
 - Melakukan perangkingan dokumen secara otomatis berdasarkan tingkat kemiripan tertinggi menggunakan Cosine Similarity.
+  
 - Menampilkan cuplikan metadata jurnal lengkap (Judul, Nama Jurnal, Penulis, Tahun Terbit, DOI, URL, dan matched terms).
