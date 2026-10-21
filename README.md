@@ -1,4 +1,4 @@
-# Simple Information Retrieval (IR) Web Engine - VSM & TF-IDF
+<img width="1891" height="907" alt="Cuplikan layar 2026-10-21 172523" src="https://github.com/user-attachments/assets/ee29272e-b599-4105-b4ca-019fca388dce" /># Simple Information Retrieval (IR) Web Engine - VSM & TF-IDF
 
 Aplikasi Web *Search Engine* mandiri berbasis **Python (Flask)** yang mengimplementasikan metode **Vector Space Model (VSM)** dan pembobotan **TF-IDF** (*Term Frequency-Inverse Document Frequency*). Proyek ini dikembangkan untuk memenuhi tugas Ujian Tengah Semester (UTS) mata kuliah Sistem Temu Kembali Informasi.
 
@@ -10,7 +10,7 @@ Aplikasi ini dibagi menjadi 4 fitur utama sesuai dengan standar spesifikasi fung
 
 ### Fitur 1: Dashboard Pencarian & Upload Dataset
 <p align="center">
-
+<img width="1910" height="912" alt="Cuplikan layar 2026-10-21 172449" src="https://github.com/user-attachments/assets/26873139-9196-4592-a8e6-dd7ec74a05fd" />
 </p>
 
 * **Pencarian Cepat :** Antarmuka pencarian interaktif yang dilengkapi placeholder *"Masukkan Kata"*, tombol aksi, serta tombol *Reset* untuk mengembalikan state pencarian.
@@ -21,7 +21,7 @@ Aplikasi ini dibagi menjadi 4 fitur utama sesuai dengan standar spesifikasi fung
 
 ### Fitur 2: Preprocessing Pipeline
 <p align="center">
-
+<img width="1882" height="907" alt="Cuplikan layar 2026-10-21 172504" src="https://github.com/user-attachments/assets/8794adc1-8d3c-426c-9411-87f9b237e2c9" />
 </p>
 
 Menampilkan audit visual tahapan pemrosesan teks secara transparan dan sistematis:
@@ -35,7 +35,7 @@ Menampilkan audit visual tahapan pemrosesan teks secara transparan dan sistemati
 
 ### Fitur 3: Mesin Hitung VSM & Bobot TF-IDF (Backend Engine)
 <p align="center">
-
+<img width="1891" height="907" alt="Cuplikan layar 2026-10-21 172523" src="https://github.com/user-attachments/assets/6db6bb2c-974a-4774-a672-42a66faa0dfa" />
 </p>
 
 * **Kalkulasi Matematis :** Menghitung frekuensi kemunculan term dalam dokumen ($\text{TF}$) serta nilai kebalikan frekuensi dokumen ($\text{IDF}$).
@@ -45,7 +45,7 @@ Menampilkan audit visual tahapan pemrosesan teks secara transparan dan sistemati
 
 ### Fitur 4: Hasil Pencarian (Ranking Dokumen)
 <p align="center">
-
+<img width="1893" height="915" alt="Screenshot (120)" src="https://github.com/user-attachments/assets/04711427-a034-4fcd-87f0-aa314c0f015e" />
 </p>
 
 * **Algoritma Cosine Similarity :** Melakukan perangkingan dokumen secara otomatis berdasarkan tingkat kemiripan vektor tertinggi antara kueri dan dokumen korpus.
