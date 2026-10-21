@@ -10,7 +10,7 @@ Aplikasi ini dibagi menjadi 4 fitur utama sesuai dengan standar spesifikasi fung
 
 ### Fitur 1: Dashboard Pencarian & Upload Dataset
 <p align="center">
-<img width="1910" height="912" alt="Cuplikan layar 2026-10-21 172449" src="https://github.com/user-attachments/assets/26873139-9196-4592-a8e6-dd7ec74a05fd" />
+  <img width="1882" height="907" alt="Cuplikan layar 2026-10-21 172504" src="https://github.com/user-attachments/assets/8794adc1-8d3c-426c-9411-87f9b237e2c9" />
 </p>
 
 * **Pencarian Cepat :** Antarmuka pencarian interaktif yang dilengkapi placeholder *"Masukkan Kata"*, tombol aksi, serta tombol *Reset* untuk mengembalikan state pencarian.
@@ -21,7 +21,7 @@ Aplikasi ini dibagi menjadi 4 fitur utama sesuai dengan standar spesifikasi fung
 
 ### Fitur 2: Preprocessing Pipeline
 <p align="center">
-<img width="1882" height="907" alt="Cuplikan layar 2026-10-21 172504" src="https://github.com/user-attachments/assets/8794adc1-8d3c-426c-9411-87f9b237e2c9" />
+<img width="1910" height="912" alt="Cuplikan layar 2026-10-21 172449" src="https://github.com/user-attachments/assets/26873139-9196-4592-a8e6-dd7ec74a05fd" />
 </p>
 
 Menampilkan audit visual tahapan pemrosesan teks secara transparan dan sistematis:
