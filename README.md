@@ -10,7 +10,7 @@ Aplikasi ini dibagi menjadi 4 fitur utama sesuai dengan standar spesifikasi fung
 
 ### Fitur 1: Dashboard Pencarian & Upload Dataset
 <p align="center">
-  <img width="100%" alt="Dashboard & Upload" src="https://github.com/user-attachments/assets/5045f303-3a02-4dd3-b679-9b6e67cb4fc9" />
+
 </p>
 
 * **Pencarian Cepat :** Antarmuka pencarian interaktif yang dilengkapi placeholder *"Masukkan Kata"*, tombol aksi, serta tombol *Reset* untuk mengembalikan state pencarian.
@@ -21,7 +21,7 @@ Aplikasi ini dibagi menjadi 4 fitur utama sesuai dengan standar spesifikasi fung
 
 ### Fitur 2: Preprocessing Pipeline
 <p align="center">
-  <img width="100%" alt="Preprocessing Pipeline" src="https://github.com/user-attachments/assets/c7dcaf99-b1fb-4a4e-a1f3-5428113e2858" />
+
 </p>
 
 Menampilkan audit visual tahapan pemrosesan teks secara transparan dan sistematis:
@@ -35,7 +35,7 @@ Menampilkan audit visual tahapan pemrosesan teks secara transparan dan sistemati
 
 ### Fitur 3: Mesin Hitung VSM & Bobot TF-IDF (Backend Engine)
 <p align="center">
-  <img width="100%" alt="Mesin Hitung VSM" src="https://github.com/user-attachments/assets/5617d50f-8af2-462f-97a6-9f9c13d70bb6" />
+
 </p>
 
 * **Kalkulasi Matematis :** Menghitung frekuensi kemunculan term dalam dokumen ($\text{TF}$) serta nilai kebalikan frekuensi dokumen ($\text{IDF}$).
@@ -45,7 +45,7 @@ Menampilkan audit visual tahapan pemrosesan teks secara transparan dan sistemati
 
 ### Fitur 4: Hasil Pencarian (Ranking Dokumen)
 <p align="center">
-  <img width="100%" alt="Hasil Pencarian" src="https://github.com/user-attachments/assets/b67a4e40-2c87-430a-9f3f-23e8338939ca" />
+
 </p>
 
 * **Algoritma Cosine Similarity :** Melakukan perangkingan dokumen secara otomatis berdasarkan tingkat kemiripan vektor tertinggi antara kueri dan dokumen korpus.
