@@ -1,4 +1,4 @@
-<img width="1891" height="907" alt="Cuplikan layar 2026-10-21 172523" src="https://github.com/user-attachments/assets/ee29272e-b599-4105-b4ca-019fca388dce" /># Simple Information Retrieval (IR) Web Engine - VSM & TF-IDF
+# Simple Information Retrieval (IR) Web Engine - VSM & TF-IDF
 
 Aplikasi Web *Search Engine* mandiri berbasis **Python (Flask)** yang mengimplementasikan metode **Vector Space Model (VSM)** dan pembobotan **TF-IDF** (*Term Frequency-Inverse Document Frequency*). Proyek ini dikembangkan untuk memenuhi tugas Ujian Tengah Semester (UTS) mata kuliah Sistem Temu Kembali Informasi.
 
